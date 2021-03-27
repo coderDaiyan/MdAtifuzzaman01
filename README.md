@@ -9,7 +9,7 @@ Contact me through Discord @Atif_uz_Zaman #8869
 - [X] Python
 - [X] HTML , CSS Basics
 - [X] Basics of JavaScript 
-- [] MongoDB (Learning)
+- [X] MongoDB (Learning)
 - [X] Basics of Discord . py (Can make basic cool discord bots )
 - Always ready to explore!
 
