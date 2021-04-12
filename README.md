@@ -20,6 +20,3 @@ Contact me through Discord @Atif_uz_Zaman #8869
 - [X] Baby Web Developer 
 - Always ready to explore!
 
-![Github Stats](https://github.com/MdAtifuzzaman01/github-stats/blob/main/generated/overview.svg)
-
-![Langs](https://github.com/MdAtifuzzaman01/github-stats/blob/main/generated/languages.svg)
