@@ -7,7 +7,7 @@ Contact me through Discord @Atif_uz_Zaman #8869
 ![](https://komarev.com/ghpvc/?username=MdAtifuzzaman01&color=brightgreen&style=plastic)
 [![](https://img.shields.io/static/v1?label=MdAtifuzzaman01&logo=github&message=Follow&color=black)](https://github.com/MdAtifuzzaman01)
 
-## I am one of the moderators of Programming Hero
+## I was one of the moderators of Programming Hero
 - ### My roles
 - [X] Translator
 - [X] Bug/Glitch Detector
