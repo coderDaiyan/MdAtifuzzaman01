@@ -21,3 +21,4 @@ Contact me through Discord @Atif_uz_Zaman#0001
 - Always ready to explore!
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=MdAtifuzzaman01&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MdAtifuzzaman&show_icons=true&theme=cobalt&title_color=3cb480&locale=en&layout=compact"/>
